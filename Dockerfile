@@ -1,5 +1,5 @@
-# Use Ubuntu 24.04.1  as the base image
-FROM ubuntu:24.04.1
+# Use Ubuntu 24.04  as the base image
+FROM ubuntu:24.04
 
 # Install necessary packages
 RUN apt-get update && \
